@@ -1,0 +1,10 @@
+Package: powerFunction
+Title: power of the numeric variable
+Version: 0.0.0.9000
+Authors@R: person("Jishnu", email="jishnu.s@k2analytics.co.in",  role = c("aut", "cre"))
+Maintainer: "Jishnu" <jishnu.s@k2analytics.co.in>
+Description: This package will help you to find the power of a numeric veribale.
+Depends: R (>= 3.4.0)
+License: MIT
+LazyData: true
+RoxygenNote: 6.0.1
